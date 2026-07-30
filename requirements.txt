@@ -1,0 +1,10 @@
+gym==0.21.0
+free-mujoco-py
+mujoco
+torch
+numpy
+scipy
+opencv-python
+matplotlib
+pandas
+tensorboard
